@@ -13,5 +13,6 @@ let package = Package(
         .target(
             name: "OpalImagePicker",
             dependencies: []),
+            path: "/"),
        ]
 )
