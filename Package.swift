@@ -12,7 +12,6 @@ let package = Package(
     targets: [
         .target(
             name: "OpalImagePicker",
-            path: "OpalImagePicker",
-            dependencies: []),
+            path: "OpalImagePicker")
        ]
 )
