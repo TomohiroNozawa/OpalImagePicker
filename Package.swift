@@ -4,6 +4,7 @@ import PackageDescription
 
 let package = Package(
     name: "OpalImagePicker",
+    defaultLocalization: "en",
     products: [
         .library(
             name: "OpalImagePicker",
