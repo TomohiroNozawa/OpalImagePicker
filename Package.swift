@@ -13,6 +13,6 @@ let package = Package(
     targets: [
         .target(
             name: "OpalImagePicker",
-            path: "OpalImagePicker")
+            path: "OpalImagePicker/Source")
        ]
 )
